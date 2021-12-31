@@ -9,6 +9,6 @@
 [JinHyung Blog](https://jinhyung16.github.io/)
 
 ## Unity Project
-[StairwayToHell](https://github.com/JinHyung16/unity_StairwayToHell.git) <br>
-[PaintUp](https://github.com/JinHyung16/unity_PaintUp.git) <br>
-[AvoidColor](https://github.com/JinHyung16/unity_AvoidColor.git)
+[StairwayToHell](https://github.com/JinHyung16/unity_StairwayToHell.git)  
+[ToyGame](https://github.com/JinHyung16/unity_ToyGame.git)  
+[ZepetoGame](https://github.com/JinHyung16/Unity_Zepeto.git)  
