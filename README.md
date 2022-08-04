@@ -4,7 +4,7 @@
 - 📮 Jinhyung's email ... [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsgud16@gmail.com)](mailto:wlsgud16@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhyung&show_icons=true&theme=radical)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsgud16)](https://solved.ac/wlsgud16)
 ## About Study
 [JinHyung Blog](https://jinhyung16.github.io/)  
 
