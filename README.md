@@ -7,6 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsgud16)](https://solved.ac/wlsgud16)
 ## About Study
 [JinHyung Blog](https://jinhyung16.github.io/)  
+[Practice Programming](https://github.com/JinHyung16/CodingTest-Practice)  
 
 ## Unity Project
 [StairwayToHell](https://github.com/JinHyung16/unity_StairwayToHell.git)  
