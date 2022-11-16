@@ -7,7 +7,7 @@
 
 ## About Study
 [My Blog](https://hjkl0316.tistory.com/)  
-[Practice Programming](https://github.com/JinHyung16/CodingTest-Practice)  
+[Practice Programming](https://github.com/JinHyung16/Algorithm-Practice)  
 
 ## Unity Project
 ### Public
