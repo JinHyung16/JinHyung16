@@ -1,7 +1,6 @@
 ## Hello, I'm JinHyung (just say me Hugh) 👋
 - 🌱 I’m currently learning c++, c#
 - 💻 **Will become a growing developer by pursuing learning anywhere**
-- 📮 Jinhyung's email...[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsgud16@gmail.com)](mailto:wlsgud16@gmail.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyung16&show_icons=true&theme=dark)  
 
