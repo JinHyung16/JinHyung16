@@ -5,7 +5,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyung16&show_icons=true&theme=dark)  
 
 ## About Study
-[My Blog](https://hjkl0316.tistory.com/)  
 [Practice Programming](https://github.com/JinHyung16/Algorithm-Practice)  
 
 ## Unity Project
@@ -18,10 +17,10 @@
 
 ### Private (WHY?)
 - 🤔 I set it as private because I thought it was a project that had little information to share  
-
 [Zepeto](https://github.com/JinHyung16/Unity_Zepeto.git)  
 [BreakORDraw](https://github.com/JinHyung16/unity_BreakORDraw)  
 [EndlessRun](https://github.com/JinHyung16/unity_EndlessRun)  
 
 ## OpenGL Practice
-[Computer Graphics Class](https://github.com/JinHyung16/OpenGL_ComputerGraphics)  
+[Computer Graphics Class](https://github.com/JinHyung16/OpenGL_HomeWork/Computer%20Graphis%20Homework)  
+[Rendering Theory Class](https://github.com/JinHyung16/OpenGL_HomeWork/Rendering%20Theory%20Homework)  
