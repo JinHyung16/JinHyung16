@@ -5,7 +5,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyung16&show_icons=true&theme=dark)  
 
 ## About Study
-[Practice Programming](https://github.com/JinHyung16/Algorithm-Practice)  
+[Practice Programming](https://github.com/JinHyung16/Algorithm_Practice)  
 
 ## Unity Project
 ### Public
@@ -22,5 +22,5 @@
 [EndlessRun](https://github.com/JinHyung16/unity_EndlessRun)  
 
 ## OpenGL Practice
-[Computer Graphics Class](https://github.com/JinHyung16/OpenGL_HomeWork/Computer%20Graphis%20Homework)  
-[Rendering Theory Class](https://github.com/JinHyung16/OpenGL_HomeWork/Rendering%20Theory%20Homework)  
+[Computer Graphics Class](https://github.com/JinHyung16/OpenGL_HomeWork/tree/main/Computer%20Graphis%20Homework)  
+[Rendering Theory Class](https://github.com/JinHyung16/OpenGL_HomeWork/tree/main/Rendering%20Theory%20Homework)  
