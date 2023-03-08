@@ -14,7 +14,7 @@
 [SeriousGame](https://github.com/JinHyung16/unity_SeriousGame)  
 [TankBattalion](https://github.com/JinHyung16/unity_TankBattalion)  
 [SideScrolling](https://github.com/JinHyung16/unity_SideScrolling_Gradius)  
-[ChickenHer](https://github.com/JinHyung16/unity_ChickenHero)  
+[ChickenHero](https://github.com/JinHyung16/unity_ChickenHero)  
 [EFU_CSI](https://github.com/JinHyung16/unity_EFU_CSI)  
 
 ### Private (WHY?)
