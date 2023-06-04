@@ -1,8 +1,9 @@
-## Hello, I'm JinHyung (just say me Hugh) 👋
+# Hello, I'm JinHyung (just say me Hugh) 👋
 - 🌱 I’m currently learning c++, c#
 - 💻 **Will become a growing developer by pursuing learning anywhere**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyung16&show_icons=true&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyung16=compact)](https://github.com/JinHyung16/github-readme-stats)
 
 ## About Study
 [Practice Programming](https://github.com/JinHyung16/Algorithm_Practice)  
