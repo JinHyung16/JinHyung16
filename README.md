@@ -3,7 +3,7 @@
 - 💻 **Will become a growing developer by pursuing learning anywhere**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyung16&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyung16=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyung16&layout=compact)](https://github.com/JinHyung16/github-readme-stats)
 
 ## About Study
 [Practice Programming](https://github.com/JinHyung16/Algorithm_Practice)  
