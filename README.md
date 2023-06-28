@@ -17,6 +17,7 @@
 [SideScrolling](https://github.com/JinHyung16/unity_SideScrolling_Gradius)  
 [ChickenHero](https://github.com/JinHyung16/unity_ChickenHero)  
 [EFU_TheClue](https://github.com/JinHyung16/unity_EFU_CSI)  
+[RoyalBlade](https://github.com/JinHyung16/unity_RoyalBlade)  
 
 ### Private (WHY?)
 - 🤔 I set it as private because I thought it was a project that had little information to share  
