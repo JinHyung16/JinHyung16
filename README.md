@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning c++, c#
 - 💻 **Will become a growing developer by pursuing learning anywhere**
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wlsgud16)](https://solved.ac/wlsgud16)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyung16&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyung16&layout=compact)](https://github.com/JinHyung16/github-readme-stats)
 
