@@ -7,7 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyung16&layout=compact)](https://github.com/JinHyung16/github-readme-stats)
 
 ## About Study
-[Practice Programming](https://github.com/JinHyung16/Algorithm_Practice)  
+[Practice programming every day](https://github.com/JinHyung16/Algorithm_Practice)  
+[WinApi32 project](https://github.com/JinHyung16/WinApi)
 
 ## Unity Project
 ### Public
