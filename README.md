@@ -17,15 +17,14 @@
 [SeriousGame](https://github.com/JinHyung16/unity_SeriousGame)  
 [TankBattalion](https://github.com/JinHyung16/unity_TankBattalion)  
 [SideScrolling](https://github.com/JinHyung16/unity_SideScrolling_Gradius)  
-[ChickenHero](https://github.com/JinHyung16/unity_ChickenHero)  
 [EFU_TheClue](https://github.com/JinHyung16/unity_EFU_CSI)  
 [RoyalBlade](https://github.com/JinHyung16/unity_RoyalBlade)  
 
 ### Private (WHY?)
-- 🤔 I set it as private because I thought it was a project that had little information to share  
 [Zepeto](https://github.com/JinHyung16/Unity_Zepeto.git)  
 [BreakORDraw](https://github.com/JinHyung16/unity_BreakORDraw)  
-[EndlessRun](https://github.com/JinHyung16/unity_EndlessRun)  
+[EndlessRun](https://github.com/JinHyung16/unity_EndlessRun)
+[ChickenHero](https://github.com/JinHyung16/unity_ChickenHero)  
 
 ## OpenGL Practice
 [Computer Graphics Class](https://github.com/JinHyung16/OpenGL_HomeWork/tree/main/Computer%20Graphis%20Homework)  
