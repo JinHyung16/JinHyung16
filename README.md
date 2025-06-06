@@ -12,6 +12,7 @@
 
 ## Unity Project
 ### Public
+[TasyPizza](https://github.com/JinHyung16/unity_TastyPizza)
 [StairwayToHell](https://github.com/JinHyung16/unity_StairwayToHell.git)  
 [DreamingToy](https://github.com/JinHyung16/unity_ToyGame.git)  
 [SeriousGame](https://github.com/JinHyung16/unity_SeriousGame)  
