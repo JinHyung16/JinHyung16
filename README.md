@@ -29,9 +29,9 @@
 ### Private  
 [Zepeto](https://github.com/JinHyung16/Unity_Zepeto.git)  
 [BreakORDraw](https://github.com/JinHyung16/unity_BreakORDraw)  
-[EndlessRun](https://github.com/JinHyung16/unity_EndlessRun)
+[EndlessRun](https://github.com/JinHyung16/unity_EndlessRun)  
 [(UE5_WarehouseWreckage)](https://github.com/JinHyung16/UE5_WarehouseWreckage)
 
 ## OpenGL Practice
-[Computer Graphics Class](https://github.com/JinHyung16/OpenGL_HomeWork/tree/main/Computer%20Graphis%20Homework)  
+[Computer Graphics Class](https://github.com/JinHyung16/OpenGL_HomeWork/tree/main/Computer%20Graphics%20Homework)  
 [Rendering Theory Class](https://github.com/JinHyung16/OpenGL_HomeWork/tree/main/Rendering%20Theory%20Homework)  
