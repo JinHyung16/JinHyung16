@@ -1,35 +1,26 @@
-# Hello, I'm JinHyung (just say me Hugh) 👋
-- 🌱 I’m currently learning c++, c#
-- 💻 **Will become a growing developer by pursuing learning anywhere**
+# 👋 게임 개발자 김진형입니다
+플레이어 경험을 중심으로 게임을 개발하는 것을 목표로 합니다.  
+C++과 C#을 기반으로 Unity와 Unreal Engine에서 게임 플레이와 시스템 구현을 진행하고 있습니다.
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wlsgud16)](https://solved.ac/wlsgud16)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyung16&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyung16&layout=compact)](https://github.com/JinHyung16/github-readme-stats)
+기획과 개발을 함께 경험하며,  
+레퍼런스 게임 분석을 통해 플레이 경험을 개선하는 방식으로 개발해왔습니다.
 
-## About Study
-[Practice programming every day](https://github.com/JinHyung16/Algorithm_Practice)  
-[WinApi32 project](https://github.com/JinHyung16/WinApi)
+---
 
-## Unity Project
-[TasyPizza](https://github.com/JinHyung16/unity_TastyPizza)  
-[StairwayToHell](https://github.com/JinHyung16/unity_StairwayToHell.git)  
-[DreamingToy](https://github.com/JinHyung16/unity_ToyGame.git)  
-[SeriousGame](https://github.com/JinHyung16/unity_SeriousGame)  
-[TankBattalion](https://github.com/JinHyung16/unity_TankBattalion)  
-[SideScrolling](https://github.com/JinHyung16/unity_SideScrolling_Gradius)  
-[EFU_TheClue](https://github.com/JinHyung16/unity_EFU_CSI)  
-[RoyalBlade](https://github.com/JinHyung16/unity_RoyalBlade)  
-[ChickenHero](https://github.com/JinHyung16/unity_ChickenHero)  
+## 🛠 Skills & Strengths
+- C++, C# 기반 게임 플레이 및 시스템 구현
+- Unity / Unreal Engine 개발 경험
+- 레퍼런스 게임 분석을 통한 기능 개선 및 기획 반영
+- 기획과 개발을 연결하는 문제 해결 능력
 
-## Unreal Project  
-### Pubilc  
-[RollBall](https://github.com/JinHyung16/UE5_RollBall)  
-[WarehouseWreckage](https://github.com/JinHyung16/UE5_WarehouseWreckage.git)  
+---
 
-## OpenGL Practice
-[Computer Graphics Class](https://github.com/JinHyung16/OpenGL_HomeWork/tree/main/Computer%20Graphics%20Homework)  
-[Rendering Theory Class](https://github.com/JinHyung16/OpenGL_HomeWork/tree/main/Rendering%20Theory%20Homework)  
+## 🎮 Projects
+> 주요 프로젝트는 아래 포트폴리오에서 확인하실 수 있습니다.
 
-## Tech Stack
-[Profile Load And Crop](https://github.com/JinHyung16/Unity_Crop_Image.git)  
-[Custom Editor Tools](https://github.com/JinHyung16/Unity_Tools.git)  
+👉 [Notion 포트폴리오](https://endurable-cook-1fd.notion.site/37e3800e564945408dd73b7ededf3dc4?source=copy_link)
+
+---
+
+## 📫 Contact
+- Email: wlsgud16@gmail.com
